@@ -1,0 +1,9 @@
+﻿[
+  {
+    "outputFile": "wwwroot/compiledFile.min.js",
+    "inputFile": "wwwroot/compiledFile.js",
+    "minify": {
+      "enabled": false
+    }
+  }
+]

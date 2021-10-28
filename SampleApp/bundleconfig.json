@@ -1,0 +1,8 @@
+[
+  {
+    "outputFileName": "wwwroot/bundledFile.min.js",
+    "inputFiles": [
+      "wwwroot/bundledFile.js"
+    ]
+  }
+]
